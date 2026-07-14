@@ -4,7 +4,7 @@ The San Francisco space where robots get built. Host of The Embodied Metal Hacka
 
 ## Start here
 
-[missionrobotics.ai/hackers](https://missionrobotics.ai/hackers) — the course. One guided path through the whole loop: perception, model, control, evals, demo. Work it top to bottom and it points you to the kit and tooling below when you need them.
+[missionrobotics.ai/hackers](https://missionrobotics.ai/hackers) — the course. One guided path through the whole loop: drive the arm, record demonstrations, upload them, fine-tune a model, then call the model you trained and watch it move. Work it top to bottom and it points you to the kit and tooling below when you need them.
 <!-- /hackers goes live before July 17 -->
 
 ## Which robot is in front of you?
